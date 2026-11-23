@@ -1,2 +1,1 @@
-Praticando Git
-
+Entendendo o Git Status
